@@ -11,6 +11,18 @@ This Vue component is designed to display a set of categorized course cards in a
 - **Smooth Transitions**: The component includes smooth transition effects when navigating between categories and expanding/collapsing the card view.
 - **Custom Buttons**: Includes primary and secondary buttons for additional interactions, such as expanding content and viewing all courses.
 
+## Preview
+
+### Sample Preview
+![Sample Preview](https://github.com/AroshaRavishan/Tab-category-Slider-with-active-tabs-and-cards-ShowMore-Buttons-Vue3/blob/main/sample%20preview.png)
+
+### Active State
+![Active State](https://github.com/AroshaRavishan/Tab-category-Slider-with-active-tabs-and-cards-ShowMore-Buttons-Vue3/blob/main/active%20state.png)
+
+### Mobile View
+![Mobile View](https://github.com/AroshaRavishan/Tab-category-Slider-with-active-tabs-and-cards-ShowMore-Buttons-Vue3/blob/main/mobile%20view.png)
+
+
 ## Key Parts of the Component
 
 ### Imports and Setup
